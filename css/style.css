@@ -1,0 +1,30 @@
+body{
+    background-color: rgb(255, 173, 237);
+}
+
+button{
+       background-color: #fff;
+    border-radius: 20px;
+    margin-left: 45.5%;
+}
+
+
+#question{
+    border: none;
+    background: transparent;
+    border-bottom: 1px solid #fff;
+    outline: none;
+    text-align: center;
+  }
+  .centered{
+    position: absolute;
+    top: 60%;
+    left: 50%;
+    right: 50;
+    transform: translate(-50%, -50%);
+    color: fuchsia;
+    font-size: 30px;
+}
+.font{
+    font-family: "Audiowide", sans-serif;
+}
